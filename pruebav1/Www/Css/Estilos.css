@@ -1,0 +1,14 @@
+.pregunta
+{
+	background: #DCDCDC;
+	padding: 1%;
+	margin: 1%;
+	border-radius: 4px;
+}
+.respuesta
+{
+	background: #E6E6FA;
+	padding: 1%;
+	margin: 2%;
+	border-radius: 4px;
+}
